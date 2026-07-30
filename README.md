@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/30527953/README.md)
+[README.md](https://github.com/user-attachments/files/30528772/README.md)
+
 # Brickify
 
 Turn a picture into a 3D‑printable, buildable LEGO‑style model — with a
